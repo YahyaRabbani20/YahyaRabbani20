@@ -11,7 +11,7 @@ YahyaRabbani20/YahyaRabbani20 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 ### Languages and Tools:
-- **Programming Languages**: Python
+- **Programming Languages**: Python, Matlab
 - **Libraries and Frameworks**: PyTorch, TensorFlow, Deep Learning  
 - **Software**: MATLAB, Ansys Fluent, Aspen Hysys 
 - **Version Control and OS**: Git, Linux
