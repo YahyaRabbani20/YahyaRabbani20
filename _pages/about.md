@@ -8,21 +8,39 @@ redirect_from:
   - /about.html
 ---
 
-My research work lies between statistics, natural language processing and machine learning.
-Since 2023, I am a post-doctoral researcher at EPFL, in the [NLP lab](https://nlp.epfl.ch/), under the supervision of [Antoine Bosselut](https://atcbosselut.github.io/). Among other topics, I work on vision-language models towards [Knowledge-guided Explanations for Satellite Images](https://www.epfl.ch/labs/eceo/eceo/projects/572-2/) and on commonsense reasoning.
+I am a post-doctoral researcher at EPFL (École polytechnique fédérale de Lausanne), specializing in applying machine learning techniques to chemical engineering and bioinformatics. My research work bridges data analysis, natural language processing, and machine learning.
 
-In 2022, I was an invited researcher at Jozef Stefan Institute (JSI) in Ljubjana, Slovenia; working on multi-task learning and causal discovery.
-Before JSI, I did a post-doc at INRIA Paris, in the [Almanach Team](http://almanach.inria.fr/), designing models to detect hateful content in social media posts and memes; the focus was on multimodal models, cross-lingual transfer and temporal graph modeling for social networks.
+### Current Role:
+Since 2022, I have been working as a postdoctoral researcher in chemistry and chemical engineering at EPFL, Lausanne, Switzerland. My current focus is on engineering nano-bio optical sensors using machine learning techniques. I leverage Python libraries like Pandas, Numpy, Matplotlib, TensorFlow, and Keras to develop neural network models (CNN, GNN, GCN) for predicting sensor responses.
 
-I did my PhD at [LISN](https://www.limsi.fr/en/) and University Paris-Saclay, under the supervision of [Alexandre Allauzen](https://allauzen.github.io/), on computational models of diachronic semantic change. I worked mostly on historical text data, news and social media, and focused on low-resource corpora and cross-lingual semantic change.
-Despite moving to other topics with my successive post-docs, I'm still active in the sematic change community, co-organizing the LChange workshop on Historical Language Change since two years.
+### Past Experience:
+Before my current role, I worked as a process engineer from 2016 to 2021 at Petropars Operation and Management Company and Artiman’s Process Development Engineering Company in Tehran, Iran, where I contributed to optimization projects using computational fluid dynamics (CFD).
 
+### Educational Background:
+I earned my PhD in Chemical Engineering from the University of Tehran in 2022. My doctoral research involved developing machine learning models for predicting the optical response of DNA-based nanosensors. I have also completed a Ph.D. exchange program at EPFL, and I hold a Master's and Bachelor's degree in Chemical Engineering, both with high academic distinction.
+
+### Skills:
+- **Programming:** Python (TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib), MATLAB
+- **Engineering Software:** Aspen HYSYS, ANSYS Fluent, Gambit, LIGGGHTS, OpenFOAM, CFDEM
+- **Specializations:** Machine learning, sensor response prediction, computational fluid dynamics, process optimization
+
+### Selected Achievements:
+- Supervised students across Bachelor's, Master's, and Ph.D. levels.
+- Awarded full scholarships for BSc, MSc, and Ph.D. programs.
+- First place in Iran's Nanotechnology Initiative Council's Leading Competition.
+- Member of the National Elites Foundation (2016-2021).
+
+### Patents and Publications:
+- **Patent:** Sustainable Magnetorheological Fluid Synthesis with Proper Rheological Properties for industrial applications.
+- **Book:** "Process Optimization in Chemical Engineering," published by Iran University of Science and Technology.
+- **Journal Publications:** Authored several research papers on machine learning applications in nano-biosensor design and chemical engineering processes, with an h-index of 10 and over 300 citations. See more details on my [Google Scholar profile](https://scholar.google.co.in/citations?user=gk2vj4YAAAAJ&hl=en).
+
+### Interests:
+Outside of work, I enjoy modeling and simulation, team-based projects, chess, ping-pong, hiking, and movies.
 
 # News:
+* 01/01/2023: Continued post-doctoral research at EPFL in chemical engineering and bioinformatics.
+* 01/06/2022: Published a final draft on deep learning for glucose detection using ssDNA-SWCNT nano biosensors.
+* 09/12/2021: Completed PhD at the University of Tehran with high honors.
 
-* 01/01/2023: Started working as a post-doctoral researcher in EPFL's NLP group.
-* 01/06/2022: Started my contract as an invited researcher at Jozef Stefan Institute.
-* 29/05/2022: Attented ACL 2022 in Dublin, Ireland, where I was co-organizing the LChange'22 workshop. 
-* 09/12/2021: Gave seminar at INRIA Lille on Models of diachronic semantic change.
-*	06/10/2021: Gave seminar at Josef Stefan Institute, Ljubjana (online)	on Detecting Omissions of Risk Factors in Company Annual Reports.
-* 23/06/2021: Gave seminar at Hong Kong Polytechnic University (online) on Models of diachronic semantic change.
+For more information, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yahyarabbani/) or my [Google Scholar](https://scholar.google.co.in/citations?user=gk2vj4YAAAAJ&hl=en).
